@@ -8,8 +8,8 @@ This repository contains my daily learning, hands-on practice, and code implemen
 
 ## 📚 Workshop Progress
 
-| Day   |                    Topics                    |   Status  |
-
+| Day | Topics | Status |
+|---|---|---|
 | Day 1 | Introduction to Gemini API and Generative AI | Completed |
 | Day 2 | Coming soon | Pending |
 | Day 3 | Coming soon | Pending |
@@ -39,4 +39,6 @@ To gain practical experience in Data Science, Generative AI, and Agentic AI by i
 
 Pradnya Chavan  
 B.Tech Computer Science Engineering Student
+
+ngineering Student
 
